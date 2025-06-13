@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Proxima Soft';
-  src: url('https://replybluefonts.netlify.app/fonts/ProximaSoft-Medium.woff') format('woff');
+  src: url('https://replyblue.retool.com/api/file/64d17d30-1fd9-4ccc-8fca-a46d79084727') format('woff');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: 'Proxima Soft';
-  src: url('https://replybluefonts.netlify.app/fonts/ProximaSoft-SemiBold.woff') format('woff');
+  src: url('https://replyblue.retool.com/api/file/03ccdaab-9598-4379-b629-5090e9785f00') format('woff');
   font-weight: 600;
   font-style: normal;
   font-display: swap;
