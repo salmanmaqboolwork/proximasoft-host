@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Proxima Soft';
+  src: url('https://replybluefonts.netlify.app/fonts/ProximaSoft-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Proxima Soft';
+  src: url('https://replybluefonts.netlify.app/fonts/ProximaSoft-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
